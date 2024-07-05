@@ -1,0 +1,11 @@
+/* header */
+header {
+    padding: 20px 0;
+    height: 80px;
+}
+header ul {
+    list-style: none;
+	margin: 0;
+	padding: 0;
+
+}
